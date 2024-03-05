@@ -3,4 +3,4 @@
 /.venv
 /venv
 /.pytest_cache
-./tasks.json
+/tasks.json
